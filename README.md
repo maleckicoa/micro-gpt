@@ -6,7 +6,7 @@ Generative Pretrained Transformer (GPT) — implemented from scratch and trained
 This repository contains two model implementations.
 - `bigram-to-gpt.py`: This is a local development of the model build to run on a CPU. The author started the model development with the most simple bigram language model, and expands it into a full transformer architecture.
 
-- `model.ipynb`: A final and enlarged version of the model, to be trained on a GPU. I used an A100 on Goolab Colab, training time ~10 mins. 
+- `model.ipynb`: A final and enlarged version of the model, to be trained on a GPU. I used an A100 on Google Colab, training time ~10 mins. 
 
 - `gpt_shakespeare.pt`: Trained model weight for the GPU model. You can run the model locally on your CPU with these weights.
 
