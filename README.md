@@ -41,7 +41,7 @@ However, since this is a text generation model, and not a translator, the encode
 - Embedding size: `384`
 - Attention heads: `6`
 - Decoder blocks: `6`
-- Dropout: `0.2`
+- Dropout: `0.2` (original implementation suggests 0.4)
 
 ## Requirements on CPU
 - Python 3.11–3.14
