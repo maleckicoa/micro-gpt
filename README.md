@@ -1,5 +1,5 @@
 # micro-gpt
-Generative Pretrained Transformer (GPT) — implemented from scratch and trained on Shakespeare’s text. This is an implementation of an amaizing tutorial by Adrej Karpathy https://www.youtube.com/watch?v=kCc8FmEb1nY .
+Generative Pretrained Transformer (GPT) — implemented from scratch and trained on Shakespeare’s text. Inspired by the excellent work of Andrej Karpathy.
 
 
 ## Overview
